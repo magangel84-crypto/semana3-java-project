@@ -1,0 +1,16 @@
+# Artefactos de build
+target/
+
+# Repositorio Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Documentacion local
+docs/
