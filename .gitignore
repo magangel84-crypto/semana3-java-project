@@ -1,0 +1,18 @@
+# ---------------------------------------------------------------------------
+# Proyecto Maven (Semana 3 - login webapp)
+# ---------------------------------------------------------------------------
+target/
+*.war
+*.class
+
+# IDE (Eclipse / VS Code Java)
+.settings/
+.project
+.classpath
+.factorypath
+.idea/
+*.iml
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
